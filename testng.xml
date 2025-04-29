@@ -5,15 +5,10 @@
         <classes/>
     </test>
 
-    <test name="Search with Data Provider Test">
+    <test name="Data Provider Test">
         <packages>
-            <package name="SearchTestCases"/>
+            <package name="TestNG"/>
         </packages>
     </test>
 
-    <test name="Filter with Data Provider Test">
-        <packages>
-            <package name="FilterTestCases"/>
-        </packages>
-    </test>
 </suite>
