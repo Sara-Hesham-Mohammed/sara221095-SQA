@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="D:/University/Senior Year/Semester 2/SQA/Project/Code/sara221095-SQA">
+        <classes/>
+    </test>
+
+    <test name="Search with Data Provider Test">
+        <packages>
+            <package name="SearchTestCases"/>
+        </packages>
+    </test>
+
+    <test name="Filter with Data Provider Test">
+        <packages>
+            <package name="FilterTestCases"/>
+        </packages>
+    </test>
+</suite>
